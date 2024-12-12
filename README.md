@@ -26,3 +26,10 @@ El proposit del projecte es fer l'examen de M08
 ### 5. Remot i publicació:
 
 ![examen6](https://github.com/user-attachments/assets/96acf4e1-132e-470c-b47e-c30d42432dd7)
+
+## Enllaç vercel
+
+https://danialarconmunyozexamen2425.vercel.app/
+
+![image](https://github.com/user-attachments/assets/c40420d5-b3b5-494e-9d8a-3eed609b206a)
+
